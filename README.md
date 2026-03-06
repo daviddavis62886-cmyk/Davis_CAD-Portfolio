@@ -32,7 +32,7 @@ A U‑shaped cable‑routing clip designed to hold multiple wires and mount to a
 This portfolio demonstrates:
 - Practical mechanical design for electronics  
 - Familiarity with common EE hardware components  
-- Ability to use AI tools to accelerate engineering workflows  
+- Ability to use 3d drafting tools to accelerate engineering workflows  
 - Creation of manufacturable, realistic CAD models  
 
 ## Author
