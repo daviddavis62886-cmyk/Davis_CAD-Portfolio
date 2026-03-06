@@ -7,10 +7,8 @@ CAD Portfolio
 ## Overview
 This portfolio showcases three CAD projects created using AI‑assisted modeling tools. Each design represents a practical component commonly used in electrical engineering applications, including enclosures, mounting hardware, and cable‑management solutions. All models were generated cleanly without requiring post‑processing in traditional CAD software.
 
-Each project folder includes:
-- STEP and/or STL files
-- Rendered images of the model
-- A project‑specific README describing purpose and features
+The project are all presented in the form of STL files
+
 
 ## Project List
 
